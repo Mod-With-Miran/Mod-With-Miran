@@ -66,7 +66,9 @@ authorization, and controlled automation.
 ## Recent public work
 
 <!-- AUTO:RECENT-START -->
-_No public project repositories to show yet. This section updates automatically._
+| Repository | What it is | Stack | Updated |
+|---|---|---|---|
+| [`vaanidesk`](https://github.com/Mod-With-Miran/vaanidesk) | Multilingual AI customer-support platform with controlled agents, hybrid RAG, secure business actions and production-grade evaluation. | `Python` | 2026-08-04 |
 <!-- AUTO:RECENT-END -->
 
 ## `~/identity`
