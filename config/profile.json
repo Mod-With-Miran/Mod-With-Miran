@@ -1,0 +1,9 @@
+{
+  "username": "Mod-With-Miran",
+  "exclude_repos": [
+    "Mod-With-Miran"
+  ],
+  "max_recent_repos": 4,
+  "include_forks": false,
+  "include_archived": false
+}

@@ -1,108 +1,94 @@
-# Hi, I'm Miran 👋
+# Miran
 
-### AI Engineer building secure, production-oriented AI systems.
+### AI Engineer · Agentic Systems · Backend · RAG · Security
 
-I build AI systems that combine model intelligence with reliable backend
-engineering, retrieval, security, evaluation, and production infrastructure.
+I build AI systems that combine model intelligence with reliable backend engineering,
+retrieval, security, evaluation, and production infrastructure.
 
-## 🚀 Currently Building
+[![Profile Automation](https://github.com/Mod-With-Miran/Mod-With-Miran/actions/workflows/update-profile.yml/badge.svg)](https://github.com/Mod-With-Miran/Mod-With-Miran/actions/workflows/update-profile.yml)
+
+## `~/currently`
+
+- building **VaaniDesk** — multilingual AI customer-support infrastructure
+- building **AtlasCore** — secure enterprise AI operations platform
+- exploring agent security, RAG evaluation, MCP, observability, and production AI systems
+
+## Featured builds
 
 ### VaaniDesk
 **Multilingual AI Customer Support Platform**
 
-A production-oriented support system designed for multilingual conversations,
-controlled business actions, knowledge retrieval, and secure customer workflows.
+A production-oriented support system for multilingual conversations, controlled business
+actions, access-controlled knowledge retrieval, and secure customer workflows.
 
-Engineering areas:
-- Multilingual AI — English, Hindi, Hinglish, Marathi
-- Controlled AI tool calling
-- Human confirmation for sensitive actions
-- Hybrid RAG and source citations
-- PostgreSQL + pgvector
-- User-level authorization
-- Idempotent business operations
-- Prompt-injection defenses
-- Evaluation and observability
+`multilingual AI` · `controlled tool calling` · `human approval` · `hybrid RAG`
+· `pgvector` · `authorization` · `idempotency` · `prompt-injection defenses`
 
-> Repository and technical case study coming soon.
-
+> Public repository and technical case study coming soon.
 
 ### AtlasCore
 **Secure Enterprise AI Operations Platform**
 
-A multi-tenant platform for enterprise knowledge, data analysis, AI workflows
-and controlled automation.
+A multi-tenant platform for enterprise knowledge, data analysis, AI workflows,
+authorization, and controlled automation.
 
-Engineering areas:
-- Multi-tenant architecture
-- PostgreSQL Row-Level Security
-- RBAC and secure authentication
-- Agent workflows
-- Human approval systems
-- Enterprise RAG
-- Safe tool execution
-- Audit logging
-- MCP integrations
-- AI evaluation and observability
+`multi-tenancy` · `PostgreSQL RLS` · `RBAC` · `secure authentication`
+· `agent workflows` · `audit logging` · `MCP` · `evaluation`
 
-> Repository and technical case study coming soon.
+> Public repository and technical case study coming soon.
 
+## `~/stack`
 
-## 🧠 Engineering Interests
+**AI / ML**  
+`Python` `PyTorch` `Hugging Face` `RAG` `Embeddings` `LLM APIs`
 
-- AI Agents & Agentic Workflows
-- Retrieval-Augmented Generation
-- LLM Evaluation
-- AI Security
-- Backend Systems
-- Multi-Tenant SaaS Architecture
-- Model Context Protocol
-- Observability & AgentOps
+**Backend**  
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `REST APIs`
 
+**AI infrastructure**  
+`pgvector` `Docker` `OpenTelemetry` `MCP`
 
-## 🛠 Technology
+**Frontend**  
+`Next.js` `TypeScript` `Tailwind CSS`
 
-**AI / ML**
+**Engineering**  
+`Git` `GitHub Actions` `pytest` `Ruff` `mypy`
 
-Python · PyTorch · Hugging Face · LLM APIs · RAG · Embeddings
+## `~/principles`
 
-**Backend**
+- models are untrusted components
+- authorization belongs outside prompts
+- sensitive actions require explicit approval
+- retrieval should be measurable
+- state-changing tools should be idempotent
+- production claims require tests and evidence
 
-FastAPI · PostgreSQL · SQLAlchemy · Redis · REST APIs
+## Recent public work
 
-**AI Infrastructure**
+<!-- AUTO:RECENT-START -->
+_No public project repositories to show yet. This section updates automatically._
+<!-- AUTO:RECENT-END -->
 
-pgvector · Docker · OpenTelemetry · MCP
+## `~/identity`
 
-**Frontend**
+```python
+class Miran:
+    focus = [
+        "AI systems",
+        "backend engineering",
+        "agent security",
+        "RAG",
+        "production infrastructure",
+    ]
 
-Next.js · TypeScript · Tailwind CSS
+    currently_building = ["VaaniDesk", "AtlasCore"]
 
-**Engineering**
+    def philosophy(self) -> str:
+        return "Build it. Test it. Measure it. Secure it."
+```
 
-Git · GitHub Actions · pytest · Ruff · mypy
+## Connect
 
-
-## 🔐 What I Care About
-
-I am particularly interested in building AI systems where models are treated as
-untrusted decision-making components rather than being given unrestricted
-access to data and tools.
-
-That means designing around:
-
-- explicit authorization
-- structured outputs
-- tool allow-lists
-- tenant isolation
-- human approval
-- idempotency
-- audit trails
-- evaluation
-- observability
-
-
-## 📫 Connect
-
-- LinkedIn — coming soon
-- Portfolio — coming soon
+- GitHub: [@Mod-With-Miran](https://github.com/Mod-With-Miran)
+- LinkedIn: add your LinkedIn URL here when ready
+- Portfolio: coming soon
