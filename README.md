@@ -2,9 +2,8 @@
 
 ### AI Engineer building secure, production-oriented AI systems.
 
-I focus on building AI systems that go beyond simple LLM wrappers — combining
-agents, retrieval, backend engineering, security, evaluation, and production
-infrastructure.
+I build AI systems that combine model intelligence with reliable backend
+engineering, retrieval, security, evaluation, and production infrastructure.
 
 ## 🚀 Currently Building
 
