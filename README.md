@@ -9,7 +9,7 @@ retrieval, security, evaluation, and production infrastructure.
 
 ## `~/currently`
 
-- building **VaaniDesk** — multilingual AI customer-support infrastructure
+- shipped **[VaaniDesk](https://github.com/Mod-With-Miran/vaanidesk)** v1.0.0 — multilingual AI customer-support platform
 - building **AtlasCore** — secure enterprise AI operations platform
 - exploring agent security, RAG evaluation, MCP, observability, and production AI systems
 
@@ -24,7 +24,7 @@ actions, access-controlled knowledge retrieval, and secure customer workflows.
 `multilingual AI` · `controlled tool calling` · `human approval` · `hybrid RAG`
 · `pgvector` · `authorization` · `idempotency` · `prompt-injection defenses`
 
-> Public repository and technical case study coming soon.
+> Public repo: [Mod-With-Miran/vaanidesk](https://github.com/Mod-With-Miran/vaanidesk) · Release: [v1.0.0](https://github.com/Mod-With-Miran/vaanidesk/releases/tag/v1.0.0)
 
 ### AtlasCore
 **Secure Enterprise AI Operations Platform**
@@ -81,7 +81,8 @@ class Miran:
         "production infrastructure",
     ]
 
-    currently_building = ["VaaniDesk", "AtlasCore"]
+    currently_building = ["AtlasCore"]
+    recently_shipped = ["VaaniDesk v1.0.0"]
 
     def philosophy(self) -> str:
         return "Build it. Test it. Measure it. Secure it."
