@@ -24,7 +24,7 @@ actions, access-controlled knowledge retrieval, and secure customer workflows.
 `multilingual AI` · `controlled tool calling` · `human approval` · `hybrid RAG`
 · `pgvector` · `authorization` · `idempotency` · `prompt-injection defenses`
 
-> Public repo: [Mod-With-Miran/vaanidesk](https://github.com/miransec/vaanidesk) · Release: [v1.0.0](https://github.com/miransec/vaanidesk/releases/tag/v1.0.0)
+> Public repo: [miransec/vaanidesk](https://github.com/miransec/vaanidesk) · Release: [v1.0.0](https://github.com/miransec/vaanidesk/releases/tag/v1.0.0)
 
 ### AtlasCore
 **Secure Enterprise AI Operations Platform**
