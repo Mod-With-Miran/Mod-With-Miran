@@ -5,11 +5,11 @@
 I build AI systems that combine model intelligence with reliable backend engineering,
 retrieval, security, evaluation, and production infrastructure.
 
-[![Profile Automation](https://github.com/Mod-With-Miran/Mod-With-Miran/actions/workflows/update-profile.yml/badge.svg)](https://github.com/Mod-With-Miran/Mod-With-Miran/actions/workflows/update-profile.yml)
+[![Profile Automation](https://github.com/miransec/miransec/actions/workflows/update-profile.yml/badge.svg)](https://github.com/miransec/miransec/actions/workflows/update-profile.yml)
 
 ## `~/currently`
 
-- shipped **[VaaniDesk](https://github.com/Mod-With-Miran/vaanidesk)** v1.0.0 — multilingual AI customer-support platform
+- shipped **[VaaniDesk](https://github.com/miransec/vaanidesk)** v1.0.0 — multilingual AI customer-support platform
 - building **AtlasCore** — secure enterprise AI operations platform
 - exploring agent security, RAG evaluation, MCP, observability, and production AI systems
 
@@ -24,7 +24,7 @@ actions, access-controlled knowledge retrieval, and secure customer workflows.
 `multilingual AI` · `controlled tool calling` · `human approval` · `hybrid RAG`
 · `pgvector` · `authorization` · `idempotency` · `prompt-injection defenses`
 
-> Public repo: [Mod-With-Miran/vaanidesk](https://github.com/Mod-With-Miran/vaanidesk) · Release: [v1.0.0](https://github.com/Mod-With-Miran/vaanidesk/releases/tag/v1.0.0)
+> Public repo: [Mod-With-Miran/vaanidesk](https://github.com/miransec/vaanidesk) · Release: [v1.0.0](https://github.com/miransec/vaanidesk/releases/tag/v1.0.0)
 
 ### AtlasCore
 **Secure Enterprise AI Operations Platform**
@@ -92,6 +92,6 @@ class Miran:
 
 ## Connect
 
-- GitHub: [@Mod-With-Miran](https://github.com/Mod-With-Miran)
+- GitHub: [@miransec](https://github.com/miransec)
 - LinkedIn: add your LinkedIn URL here when ready
 - Portfolio: coming soon
