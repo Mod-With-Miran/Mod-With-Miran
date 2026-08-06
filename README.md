@@ -9,8 +9,8 @@ retrieval, security, evaluation, and production infrastructure.
 
 ## `~/currently`
 
-- shipped **[VaaniDesk](https://github.com/miransec/vaanidesk)** v1.0.0 — multilingual AI customer-support platform
-- building **AtlasCore** — secure enterprise AI operations platform
+- shipped **[VaaniDesk](https://github.com/miransec/vaanidesk)** v1.0.1 — multilingual AI customer-support platform
+- shipped **[AtlasCore](https://github.com/miransec/atlascore)** v1.0.0 -secure enterprise AI operations platform
 - exploring agent security, RAG evaluation, MCP, observability, and production AI systems
 
 ## Featured builds
@@ -35,7 +35,7 @@ authorization, and controlled automation.
 `multi-tenancy` · `PostgreSQL RLS` · `RBAC` · `secure authentication`
 · `agent workflows` · `audit logging` · `MCP` · `evaluation`
 
-> Public repository and technical case study coming soon.
+> Public repository: [miransec/atlascore](https://github.com/miransec/atlascore) · 
 
 ## `~/stack`
 
@@ -68,7 +68,7 @@ authorization, and controlled automation.
 <!-- AUTO:RECENT-START -->
 | Repository | What it is | Stack | Updated |
 |---|---|---|---|
-| [`vaanidesk`](https://github.com/Mod-With-Miran/vaanidesk) | Multilingual AI customer-support platform with controlled agents, hybrid RAG, secure business actions and production-grade evaluation. | `Python` | 2026-08-04 |
+| [`vaanidesk`](https://github.com/miransec/vaanidesk) | Multilingual AI customer-support platform with controlled agents, hybrid RAG, secure business actions and production-grade evaluation. | `Python` | 2026-08-04 |
 <!-- AUTO:RECENT-END -->
 
 ## `~/identity`
