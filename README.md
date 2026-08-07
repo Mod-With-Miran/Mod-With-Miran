@@ -1,52 +1,55 @@
 # Miran
 
-### AI Engineer · Agentic Systems · Backend · RAG · Security
+### AI Engineer · Secure AI Systems · Backend · RAG
 
-I build AI systems that combine model intelligence with reliable backend engineering,
-retrieval, security, evaluation, and production infrastructure.
+I build production-oriented AI systems where models operate inside reliable backend, retrieval, authorization, and security boundaries.
 
 [![Profile Automation](https://github.com/miransec/miransec/actions/workflows/update-profile.yml/badge.svg)](https://github.com/miransec/miransec/actions/workflows/update-profile.yml)
 
 ## `~/currently`
 
-- shipped **[VaaniDesk](https://github.com/miransec/vaanidesk)** v1.0.1 — multilingual AI customer-support platform
-- shipped **[AtlasCore](https://github.com/miransec/atlascore)** v1.0.0 -secure enterprise AI operations platform
-- exploring agent security, RAG evaluation, MCP, observability, and production AI systems
+- shipped **[VaaniDesk](https://github.com/miransec/vaanidesk)** — multilingual AI customer-support platform with controlled actions and hybrid RAG
+- shipped the latest **[AtlasCore](https://github.com/miransec/atlascore)** UI v2 experience — secure enterprise AI infrastructure for knowledge, retrieval, and grounded AI workflows
+- exploring the intersection of AI engineering and cybersecurity
 
-## Featured builds
+## Featured systems
+
+### AtlasCore
+**Secure enterprise AI infrastructure for knowledge, retrieval, and grounded AI workflows.**
+
+A multi-tenant AI platform built around database-enforced isolation, workspace-scoped knowledge, hybrid retrieval, evidence-gated answering, and auditable access control.
+
+`FastAPI` · `PostgreSQL RLS` · `pgvector` · `Redis` · `Next.js` · `RBAC` · `grounded AI` · `evaluation`
+
+**Latest verified UI v2:**
+- **717 backend tests passed**
+- **46/46 deterministic evaluations passed**
+- Ruff clean
+- mypy `--strict` clean across 90 source files
+- frontend lint, type-check, Vitest, and production build passed
+- FORCE RLS and restricted runtime DB-role invariants preserved
+
+> Repository: [miransec/atlascore](https://github.com/miransec/atlascore)
 
 ### VaaniDesk
 **Multilingual AI Customer Support Platform**
 
-A production-oriented support system for multilingual conversations, controlled business
-actions, access-controlled knowledge retrieval, and secure customer workflows.
+A production-oriented support system for multilingual conversations, controlled business actions, access-controlled knowledge retrieval, and secure customer workflows.
 
-`multilingual AI` · `controlled tool calling` · `human approval` · `hybrid RAG`
-· `pgvector` · `authorization` · `idempotency` · `prompt-injection defenses`
+`multilingual AI` · `controlled tool calling` · `human approval` · `hybrid RAG` · `pgvector` · `authorization` · `idempotency` · `prompt-injection defenses`
 
-> Public repo: [miransec/vaanidesk](https://github.com/miransec/vaanidesk) · Release: [v1.0.0](https://github.com/miransec/vaanidesk/releases/tag/v1.0.0)
-
-### AtlasCore
-**Secure Enterprise AI Operations Platform**
-
-A multi-tenant platform for enterprise knowledge, data analysis, AI workflows,
-authorization, and controlled automation.
-
-`multi-tenancy` · `PostgreSQL RLS` · `RBAC` · `secure authentication`
-· `agent workflows` · `audit logging` · `MCP` · `evaluation`
-
-> Public repository: [miransec/atlascore](https://github.com/miransec/atlascore) · 
+> Repository: [miransec/vaanidesk](https://github.com/miransec/vaanidesk)
 
 ## `~/stack`
 
 **AI / ML**  
-`Python` `PyTorch` `Hugging Face` `RAG` `Embeddings` `LLM APIs`
+`Python` `RAG` `Embeddings` `LLM APIs` `Evaluation`
 
 **Backend**  
 `FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `REST APIs`
 
 **AI infrastructure**  
-`pgvector` `Docker` `OpenTelemetry` `MCP`
+`pgvector` `Docker` `OpenTelemetry`
 
 **Frontend**  
 `Next.js` `TypeScript` `Tailwind CSS`
@@ -58,18 +61,10 @@ authorization, and controlled automation.
 
 - models are untrusted components
 - authorization belongs outside prompts
+- retrieval should be measurable and evidence-backed
 - sensitive actions require explicit approval
-- retrieval should be measurable
 - state-changing tools should be idempotent
 - production claims require tests and evidence
-
-## Recent public work
-
-<!-- AUTO:RECENT-START -->
-| Repository | What it is | Stack | Updated |
-|---|---|---|---|
-| [`vaanidesk`](https://github.com/miransec/vaanidesk) | Multilingual AI customer-support platform with controlled agents, hybrid RAG, secure business actions and production-grade evaluation. | `Python` | 2026-08-04 |
-<!-- AUTO:RECENT-END -->
 
 ## `~/identity`
 
@@ -78,13 +73,12 @@ class Miran:
     focus = [
         "AI systems",
         "backend engineering",
+        "secure retrieval",
         "agent security",
-        "RAG",
         "production infrastructure",
     ]
 
-    currently_building = ["AtlasCore"]
-    recently_shipped = ["VaaniDesk v1.0.0"]
+    shipped = ["VaaniDesk", "AtlasCore UI v2"]
 
     def philosophy(self) -> str:
         return "Build it. Test it. Measure it. Secure it."
@@ -92,6 +86,6 @@ class Miran:
 
 ## Connect
 
+- Portfolio: [muhammadmiran.com](https://muhammadmiran.com)
 - GitHub: [@miransec](https://github.com/miransec)
-- LinkedIn: add your LinkedIn URL here when ready
-- Portfolio: coming soon
+- Email: [contact@muhammadmiran.com](mailto:contact@muhammadmiran.com)
